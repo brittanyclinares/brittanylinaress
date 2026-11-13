@@ -5,15 +5,23 @@ I study computer engineering at Virginia Tech and am pursuing an M.Eng. in elect
 ## Selected engineering projects
 
 ### Modular snake robot | ROS 2, MATLAB, CAN
+[View the runnable demo](https://github.com/brittanyclinares/modular-robot-kinematics)
+
 Built a ROS 2 model to check joint and wheel commands in RViz, modeled forward kinematics in MATLAB, and designed CAN messages for movement commands, feedback, and faults on my senior design team.
 
 ### Three-band audio processing system | Analog filters, embedded C, Arduino
+[View the runnable demo](https://github.com/brittanyclinares/three-band-audio-filter-demo)
+
 Built a three-band equalizer with second-order Butterworth filters. Developed an 80 kHz PWM Class D amplifier and integrated an OLED display to visualize audio-band levels.
 
 ### Multithreaded document analyzer | C++, Qt, CMake, QTest
+[View the runnable demo](https://github.com/brittanyclinares/concurrent-document-analysis-demo)
+
 Built a desktop application for tokenization, syllabification, and readability analysis. Used a producer–consumer thread pool and moved processing off the UI thread. Added automated tests with QTest.
 
 ### Color Jump | Embedded C, MSP432
+[View the runnable demo](https://github.com/brittanyclinares/embedded-color-jump-demo)
+
 Built a microcontroller game with a finite-state machine, joystick and button input, and collision detection. Tested the game’s timing and input on hardware.
 
 ### Census income classification | Python, scikit-learn
