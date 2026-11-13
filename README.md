@@ -1,29 +1,24 @@
-# brittanylinaress
-My personal repository
-# Hi, I'm Brittany Linares
+# Brittany Linares
 
-I'm currently part of the AI Studio 2025 program, where I'm building hands-on experience in machine learning and data science. I’m especially interested in using data and code to solve meaningful problems, and I enjoy working on projects that push my skills forward.
+I study computer engineering at Virginia Tech and am pursuing an M.Eng. in electrical engineering focused on signals, systems, and controls. I’m a Software Engineering Intern / Co-op at Lockheed Martin.
 
-Right now, I’m focused on improving my ML model-building skills, collaborating on group projects, and staying active in the open-source community. Whether it's exploring new algorithms or cleaning up messy datasets, I love the process of building something useful from scratch.
+## Selected engineering projects
+
+### Modular snake robot | ROS 2, MATLAB, CAN
+Built a ROS 2 model to check joint and wheel commands in RViz, modeled forward kinematics in MATLAB, and designed CAN messages for movement commands, feedback, and faults on my senior design team.
+
+### Three-band audio processing system | Analog filters, embedded C, Arduino
+Built a three-band equalizer with second-order Butterworth filters. Developed an 80 kHz PWM Class D amplifier and integrated an OLED display to visualize audio-band levels.
+
+### Multithreaded document analyzer | C++, Qt, CMake, QTest
+Built a desktop application for tokenization, syllabification, and readability analysis. Used a producer–consumer thread pool and moved processing off the UI thread. Added automated tests with QTest.
+
+### Color Jump | Embedded C, MSP432
+Built a microcontroller game with a finite-state machine, joystick and button input, and collision detection. Tested the game’s timing and input on hardware.
+
+### Census income classification | Python, scikit-learn
+Explored a census dataset, prepared features, and compared classifiers including logistic regression and gradient boosting for income prediction.
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/brittanylinares 
-- Email: lbrittany@vt.edu
-
-## Projects
-
-Here are a few of the projects I’ve worked on recently:
-
-### [income-classification-census](https://github.com/brittanylinaresss/My-eCornell-Portfolio-/blob/main/Lab8.DefineAndSolveMLProblem.ipynb?short_path=eb7038a)
-
-A machine learning project that uses census data to predict whether a person earns more than $50K annually.  
-Includes exploratory data analysis, feature engineering, and comparison of multiple models like logistic regression and gradient boosting.
-### [Lab-8-digit-classification](https://github.com/brittanylinaresss/My-eCornell-Portfolio-/blob/main/ImplementCNN.ipynb) 
-Digit Classification from 0-9
-
-### [Color-Jump](https://github.com/brittanylinaresss/My-eCornell-Portfolio-/blob/main/Project-2-Color-Jump) 
-The purpose of my report is to detail the development of Color Jump, a game where players synchronize
-their color with a dynamic floor to survive. I cover design challenges, implementation solutions, and
-strategies for smooth gameplay, and precise scoring.
-
+[LinkedIn](https://www.linkedin.com/in/brittany-linares/)
